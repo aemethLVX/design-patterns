@@ -1,0 +1,15 @@
+{
+    "name": "aemeth/patterns",
+    "authors": [
+        {
+            "name": "Aemeth",
+            "email": "aemeth.lvx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Delegation\\": "delegation"
+        }
+    },
+    "require": {}
+}
