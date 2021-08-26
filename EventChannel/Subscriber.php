@@ -18,6 +18,6 @@ class Subscriber implements SubscriberInterface
 
     public function notify($topic, $data)
     {
-        echo "{$this->name} got a new release of '{$topic}' called '{$data}' <br>";
+        echo "{$this->getName()} got a new release of '{$topic}' called '{$data}' <br>";
     }
 }
