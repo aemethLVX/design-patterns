@@ -1,5 +1,6 @@
 {
     "name": "aemeth/patterns",
+    "type": "project",
     "authors": [
         {
             "name": "Aemeth",
